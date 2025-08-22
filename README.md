@@ -36,7 +36,7 @@ Here is a visual guide to the core features of Quick Notes.
 ### Main Dashboard & Core Actions
 | Dashboard & Notes Grid                       | Searching for a Note                     |
 | :------------------------------------------- | :--------------------------------------- |
-| ![Dashboard](./images/View_notes.png)         | ![Search](./images/search_notes.png)           |
+| ![Dashboard](./images/View_notes.jpg)         | ![Search](./images/search_notes.jpg)           |
 
 | Add a New Note                             | Update an Existing Note                      |
 | :----------------------------------------- | :------------------------------------------- |
