@@ -24,28 +24,32 @@ Quick Notes is a clean, simple, and intuitive note-taking application for Androi
 Here is a visual guide to the core features of Quick Notes.
 
 ### App Entry
-| Splash Screen                          |
-| :------------------------------------- |
-| ![Splash Screen](./images/Start.jpg) |
+
+| Splash Screen |
+| :---: |
+| <img src="./images/Start.jpg" alt="Splash Screen" height="400"> |
 
 ### Authentication
-| Signup Screen                          | Login Screen                         |
-| :------------------------------------- | :----------------------------------- |
-| ![Signup Screen](./images/Signup.jpg)  | ![Login Screen](./images/Login.jpg)  |
+
+| Signup Screen | Login Screen |
+| :---: | :---: |
+| <img src="./images/Signup.jpg" alt="Signup Screen" height="400"> | <img src="./images/Login.jpg" alt="Login Screen" height="400"> |
 
 ### Main Dashboard & Core Actions
-| Dashboard & Notes Grid                       | Searching for a Note                     |
-| :------------------------------------------- | :--------------------------------------- |
-| ![Dashboard](./images/View_notes.jpg)         | ![Search](./images/search_notes.jpg)           |
 
-| Add a New Note                             | Update an Existing Note                      |
-| :----------------------------------------- | :------------------------------------------- |
-| ![Add Note](./images/add_note.jpg)              | ![Update Note](./images/update_note.jpg)          |
+| Dashboard & Notes Grid | Searching for a Note |
+| :---: | :---: |
+| <img src="./images/View_notes.jpg" alt="Dashboard" height="400"> | <img src="./images/search_notes.jpg" alt="Search" height="400"> |
+
+| Add a New Note | Update an Existing Note |
+| :---: | :---: |
+| <img src="./images/add_note.jpg" alt="Add Note" height="400"> | <img src="./images/update_note.jpg" alt="Update Note" height="400"> |
 
 ### Other Actions
-| Deleting a Note (on long-press)            | Logout (from menu)                         |
-| :----------------------------------------- | :----------------------------------------- |
-| ![Delete Note](./images/delete_note.jpg)        | ![Logout](./images/logout.jpg)             |
+
+| Deleting a Note (on long-press) | Logout (from menu) |
+| :---: | :---: |
+| <img src="./images/delete_note.jpg" alt="Delete Note" height="400"> | <img src="./images/logout.jpg" alt="Logout" height="400"> |
 
 ---
 
